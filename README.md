@@ -1,5 +1,10 @@
 # Plan de alimentación (dataset)
 
+## Status
+
+- **Stage:** production ready
+- **Audited:** 2026-08-23
+
 Static meal-plan dataset for web apps. Recipes, day menus, and general recommendations are structured in JSON; scanned source sheets live under `images/`.
 
 **Out of scope:** UI application, auth, or backend.
