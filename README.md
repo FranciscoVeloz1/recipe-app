@@ -2,8 +2,8 @@
 
 ## Status
 
-- **Stage:** production ready
-- **Audited:** 2026-08-23
+- **Stage:** in progress
+- **Audited:** 2026-09-12
 
 Static meal-plan dataset for web apps. Recipes, day menus, and general recommendations are structured in JSON; scanned source sheets live under `images/`.
 
